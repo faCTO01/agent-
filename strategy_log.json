@@ -1,0 +1,26 @@
+- results:
+    profit: 0.42
+    result: simulated
+    strategy_used: scalping_sprint
+    timestamp: '2025-12-28T00:33:39.702745'
+  strategy:
+    source_signal:
+      details: Початковий аналіз ринку виконано.
+      signal: market_scan_complete
+      timestamp: '2025-12-28T00:33:39.702745'
+    strategy: scalping_sprint
+    timestamp: '2025-12-28T00:33:39.702745'
+  timestamp: '2025-12-28T00:33:39.702745'
+- results:
+    profit: 0.42
+    result: simulated
+    strategy_used: scalping_sprint
+    timestamp: '2025-12-28T19:12:22.262374'
+  strategy:
+    source_signal:
+      details: Початковий аналіз ринку виконано.
+      signal: market_scan_complete
+      timestamp: '2025-12-28T19:12:22.262374'
+    strategy: scalping_sprint
+    timestamp: '2025-12-28T19:12:22.262374'
+  timestamp: '2025-12-28T19:12:22.262374'

@@ -1,0 +1,247 @@
+{
+    "cycles": [
+        {
+            "timestamp": "2025-12-28T19:15:44.572481",
+            "signals": {
+                "timestamp": "2025-12-28T19:15:44.570273",
+                "signal": "market_scan_complete",
+                "details": "Початковий аналіз ринку виконано."
+            },
+            "strategy": {
+                "timestamp": "2025-12-28T19:15:44.570273",
+                "strategy": "scalping_sprint",
+                "source_signal": {
+                    "timestamp": "2025-12-28T19:15:44.570273",
+                    "signal": "market_scan_complete",
+                    "details": "Початковий аналіз ринку виконано."
+                }
+            },
+            "results": {
+                "timestamp": "2025-12-28T19:15:44.570273",
+                "result": "simulated",
+                "profit": 0.42,
+                "strategy_used": "scalping_sprint"
+            }
+        },
+        {
+            "timestamp": "2025-12-29T19:34:55.420856",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2025-12-29T19:34:54.672423",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T15:09:59.716862",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T15:09:59.224494",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T15:15:32.972419",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T15:15:32.502743",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T15:34:53.236796",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T15:34:52.854222",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:13:12.539854",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:13:12.033531",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:14:23.187651",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:14:22.812958",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:16:45.011216",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:16:44.630894",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:17:38.086079",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:17:37.491132",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:19:53.608718",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:19:53.211606",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:20:49.647216",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:20:49.231115",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:21:24.690605",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:21:24.279189",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:23:41.582917",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:23:41.151464",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:24:25.229811",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:24:24.845994",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:26:06.009221",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:26:05.602826",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:28:02.774808",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:28:02.381018",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:34:24.767435",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:34:24.379327",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:38:09.560177",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:38:09.150379",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:42:05.297752",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:42:04.917546",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:44:05.847043",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:44:04.886043",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        },
+        {
+            "timestamp": "2026-01-06T18:46:48.995207",
+            "signals": "[AI‑1 ERROR] ",
+            "strategy": "[AI‑2 ERROR] ",
+            "results": {
+                "timestamp": "2026-01-06T18:46:48.420458",
+                "profit": 0.0,
+                "status": "simulated",
+                "strategy_used": "[AI‑2 ERROR] "
+            }
+        }
+    ]
+}
