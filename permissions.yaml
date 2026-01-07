@@ -1,0 +1,9 @@
+modules:
+  self_upgrade:
+    allow_packages:
+      - "numpy"
+      - "pandas"
+
+agents:
+  trader:
+    trading: "simulation_only"

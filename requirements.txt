@@ -1,0 +1,11 @@
+openai
+python-binance
+pandas
+numpy
+pyyaml
+requests
+websockets
+python-telegram-bot
+aiohttp
+tqdm
+rich

@@ -1,0 +1,16 @@
+app:
+  name: "Spark-1"
+  version: "0.1.0"
+
+logs:
+  system: "logs/system.log"
+  agent_activity: "logs/agent_activity.log"
+  trade: "logs/trade.log"
+  experiment: "logs/experiment.log"
+
+memory:
+  etn_path: "data/etn_memory.json"
+
+voice:
+  enabled: true
+  rate: 175
